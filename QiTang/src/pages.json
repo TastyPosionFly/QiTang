@@ -1,0 +1,203 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "主页"
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "微信登录"
+			}
+		},
+		{
+			"path": "pages/user/info",
+			"style": {
+				"navigationBarTitleText": "用户信息查询"
+			}
+		},
+		{
+			"path": "pages/user/profile",
+			"style": {
+				"navigationBarTitleText": "资料更新"
+			}
+		},
+		{
+			"path": "pages/user/edit",
+			"style": {
+				"navigationBarTitleText": "编辑资料"
+			}
+		},
+		{
+			"path": "pages/admin/index",
+			"style": {
+				"navigationBarTitleText": "管理中心"
+			}
+		},
+		{
+			"path": "pages/admin/users",
+			"style": {
+				"navigationBarTitleText": "用户管理"
+			}
+		},
+		{
+			"path": "pages/admin/organizations",
+			"style": {
+				"navigationBarTitleText": "组织管理"
+			}
+		},
+		{
+			"path": "pages/admin/user-detail",
+			"style": {
+				"navigationBarTitleText": "用户详情"
+			}
+		},
+		{
+			"path": "pages/organization/list",
+			"style": {
+				"navigationBarTitleText": "组织列表"
+			}
+		},
+		{
+			"path": "pages/organization/detail",
+			"style": {
+				"navigationBarTitleText": "组织详情"
+			}
+		},
+		{
+			"path": "pages/organization/apply",
+			"style": {
+				"navigationBarTitleText": "创建组织申请"
+			}
+		},
+		{
+			"path": "pages/organization/album",
+			"style": {
+				"navigationBarTitleText": "组织相册"
+			}
+		},
+		{
+			"path": "pages/organization/photo-detail",
+			"style": {
+				"navigationBarTitleText": "图片详情",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/venue/list",
+			"style": {
+				"navigationBarTitleText": "场地"
+			}
+		},
+		{
+			"path": "pages/venue/detail",
+			"style": {
+				"navigationBarTitleText": "场地详情"
+			}
+		},
+		{
+			"path": "pages/venue/create",
+			"style": {
+				"navigationBarTitleText": "创建场地"
+			}
+		},
+		{
+			"path": "pages/venue/edit",
+			"style": {
+				"navigationBarTitleText": "编辑场地"
+			}
+		},
+		{
+			"path": "pages/performance/list",
+			"style": {
+				"navigationBarTitleText": "演出列表"
+			}
+		},
+		{
+			"path": "pages/performance/detail",
+			"style": {
+				"navigationBarTitleText": "演出详情"
+			}
+		},
+		{
+			"path": "pages/attendance/session",
+			"style": {
+				"navigationBarTitleText": "出席名单"
+			}
+		},
+		{
+			"path": "pages/performance/edit",
+			"style": {
+				"navigationBarTitleText": "编辑演出"
+			}
+		},
+		{
+			"path": "pages/performance/apply",
+			"style": {
+				"navigationBarTitleText": "演出申请"
+			}
+		},
+		{
+			"path": "pages/ticket/template-upload",
+			"style": {
+				"navigationBarTitleText": "上传 / 更新 电子票模板"
+			}
+		},
+		{
+			"path": "pages/ticket/qrcode",
+			"style": {
+				"navigationBarTitleText": "电子票"
+			}
+		},
+		{
+			"path": "pages/ticket/scan",
+			"style": {
+				"navigationBarTitleText": "扫码核销"
+			}
+		},
+		{
+			"path": "pages/application/my-applications",
+			"style": {
+				"navigationBarTitleText": "我的申请"
+			}
+		},
+		{
+			"path": "pages/ticket/my-tickets",
+			"style": {
+				"navigationBarTitleText": "我的票夹"
+			}
+		},
+		{
+			"path": "pages/application/detail",
+			"style": {
+				"navigationBarTitleText": "申请详情"
+			}
+		},
+		{
+			"path": "pages/application/review",
+			"style": {
+				"navigationBarTitleText": "申请审核"
+			}
+		},
+		{
+			"path": "pages/application/review-detail",
+			"style": {
+				"navigationBarTitleText": "审核申请"
+			}
+		},
+		{
+			"path": "pages/admin/hot-manage",
+			"style": {
+				"navigationBarTitleText": "热门管理"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
